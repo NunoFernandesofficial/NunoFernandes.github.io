@@ -147,7 +147,7 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
+favicon: assets/img/favicons/favicon.ico
 # The base URL of your site
 baseurl: ""
 
